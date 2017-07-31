@@ -1,0 +1,13 @@
+1. Forgetpassword
+2. Password eye Js
+3. Photo Adding
+4. Doctor(aptlist,doctorlist,patientlist, schedule lis,add schedule, operation list)
+5. Showing only 10 itemsin table
+6. Discharge in Receptionists
+7. Every place enquiry current date
+8. same patient same doctor date apt js
+9. option showing doctor wrt its department
+10. password hashing
+11. admin expenses cdredit debit report
+12. entire dispay for mobile
+13. doctor individua case history of hi patient;
