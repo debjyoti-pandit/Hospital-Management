@@ -1,0 +1,39 @@
+#dep{
+    font-weight: 800;
+    color: #000;
+    letter-spacing: 0.3px;
+    margin-bottom: 5px;
+	font-size: 24px;s
+	margin-left:500px;
+	margin-top:70px;
+	text-align:center;
+}
+#our{    
+    color: #555;
+	font-family: 'Work Sans', sans-serif;
+	margin-top:10px;
+     margin-left:440px;
+	 font-size:17px;
+	}
+	.list-group{margin-top:35px;
+	
+   }
+   
+   .list-group-item{margin-top:15px;
+   font-size: 14px;
+       font-weight: 800;
+	   padding:14px;
+	   }
+	active{background-color: white;
+    color: #207fdd;
+    border-color: #207fdd;}
+	p{font-size: 15px;
+    line-height: 1.42857143;
+    color: #333;
+	margin-top:15px;
+	
+	}
+	
+	h2{font-size:16px:}
+	#value{margin-top:60px;
+	}

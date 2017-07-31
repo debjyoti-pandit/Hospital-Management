@@ -1,0 +1,103 @@
+.carousel-control.left, .carousel-control.right {
+	background-image:none;
+	height:40px;
+	width:40px;
+	margin-top:80px;
+}
+
+.carousel-indicators .active { <!--not working-->
+background:red;
+}
+
+.img-responsive {
+    width: 300px;
+    height: 300px;
+}
+.dtitle{
+     font-family:calibri;
+}
+.dt{
+    background-color:#b7beb6;
+    opacity:0.7;
+    margin-left:-8px;
+	margin-right:-6px;
+	margin-bottom:-55px;
+}
+
+@media (min-width: 992px ) {
+	.carousel-inner .active.left {
+		left: -25%;
+	}
+	.carousel-inner .next {
+		left:  25%;
+	}
+	.carousel-inner .prev {
+		left: -25%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px ) {
+	.carousel-inner .active.left {
+		left: -33.3%;
+	}
+	.carousel-inner .next {
+		left:  33.3%;
+	}
+	.carousel-inner .prev {
+		left: -33.3%;
+	}
+	.active > div:first-child {
+		display:block;
+	}
+	.active > div:first-child + div {
+		display:block;
+	}
+	.active > div:last-child {
+		display:none;
+	}
+}
+
+@media (max-width: 767px) {
+	.carousel-inner .active.left {
+		left: -100%;
+	}
+	.carousel-inner .next {
+		left:  100%;
+	}
+	.carousel-inner .prev {
+		left: -100%;
+	}
+	.active > div {
+		display:none;
+	}
+	.active > div:first-child {
+		display:block;
+	}
+}
+.doct{
+text-align:center;
+font-family:arial;
+color:#c3dbf6;
+}
+.dn{
+  font-family:calibri;
+  font-size:20px;
+  padding-bottom: 5px;
+}
+.dd{
+  font-family:calibri;
+  font-size:13px;
+}
+.jjj:hover{
+  background-color: #000;
+}
+#slider_nav{
+  padding-right: 100px;
+    width: 50;
+    margin: 0;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+#slider_nav:hover{
+  background-color: rgba(12, 5, 5, 0.46);
+}

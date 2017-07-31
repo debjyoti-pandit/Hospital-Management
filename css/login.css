@@ -1,0 +1,13 @@
+.wrapper
+{	padding: 30px;
+    border-color: rgba(55, 0, 255, 0.6);
+    max-width: 500px;
+    margin: auto;
+    padding-top: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: .1px;
+    box-shadow: 5px 5px rgba(1, 40, 78, 0.18);
+}
