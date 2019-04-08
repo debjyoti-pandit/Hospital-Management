@@ -275,6 +275,7 @@ i{
                               require("connection.php");
                               $str="select * from department;";
                               $result= mysqli_query($con, $str);
+                              echo "dev";
                               $s=1;
                       ?>
                       <table class="table table-hover">
@@ -555,6 +556,7 @@ i{
           var name=document.getElementById("name-enquiry").value;
           var enquiry=document.getElementById("enquiry").value;
           var date=document.getElementById("date-enquiry").value;
+          console.log(date)
           $.post("enquiry.php",{"email":email,"name":name,"mobile":mobile,"date":date,"enquiry":enquiry},function(data){
               alert(data);
               $("#date-enquiry").val("");

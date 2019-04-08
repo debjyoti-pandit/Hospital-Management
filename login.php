@@ -124,7 +124,6 @@ Login_page
             <button type="button" id="login-btn" class="btn btn-primary">Login</button>
           </div>
         </div>
-
       </form>
     </div>
 </center>
