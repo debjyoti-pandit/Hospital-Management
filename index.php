@@ -34,11 +34,11 @@
             <div class="row" id="header_email">
               <div class="col-md-6 header_text">
                 <span class="glyphicon glyphicon-envelope" style="padding-right: 5;" aria-hidden="true"></span>
-                <a class="header_text" href="www.gmail.com">debjyotipandit35@gmail.com</a>
+                <a class="header_text" href="www.gmail.com">johndoe@gmail.com</a>
               </div>
               <div class="col-md-6 header_text " style="height: 32;line-height: 32px;">
                 <span class="glyphicon glyphicon-earphone" style="padding-right: 5;" aria-hidden="true"></span>
-                <a class="header_text" href="#">(+91)8436476635</a>
+                <a class="header_text" href="#">(+91)9876543210</a>
               </div>
             </div>
           </div>
